@@ -1,3 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.header-pic{
+    background-image: url(img/elem.png);
+}
+.size-width{
+    width:1500px;
+    height:auto;
+}
