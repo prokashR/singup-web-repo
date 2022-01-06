@@ -82,11 +82,13 @@ img{
     width: 80%;
     margin-right: 20%;
 }
-
+.h1prot{
+    text-align: center;
+    font-size:60px;
+}
 .box{
     background-color: honeydew;
     width: 20%;
-    margin-top: 8%;
     margin-left: 52px;
     padding: 20px 14px;
     box-shadow: -3px -2px 29px #d4d4dd;
