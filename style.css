@@ -21,7 +21,7 @@ img{
     margin-right:60%;
 }
 .header-pic{
-   margin-top: 50px;
+   margin-top:170px;
 }
 .acchor a{
     text-decoration: none;
@@ -34,7 +34,7 @@ img{
     display: flex;
 }
 .h1prof{
-  color:cyan;
+    color:cyan;
     font-size: 50px;
 }
 .p1prof{
@@ -84,7 +84,8 @@ img{
 }
 .h1prot{
     text-align: center;
-    font-size:60px;
+    font-size: 60px;
+    margin-top: -130px;
 }
 .box{
     background-color: honeydew;
@@ -104,4 +105,56 @@ img{
 h5{
     font-size: 15px;
     margin-top: -14px;
+}
+/*************************************************************/
+a{
+    text-decoration: none;
+}
+.dis-play{
+    display: flex;
+    margin-top: 10%;
+    margin-left:-8px;
+}
+.img-prok{
+    width:150%;
+    margin-right: 20%;
+}
+.hi-prokash{
+    font-family: 'DM Serif Display', serif;
+    font-size:40px;
+    color: #000;
+}
+
+.hi-prokash1{
+    font-family: 'DM Serif Display', serif;
+    font-size:40px;
+    margin-top: -22px;
+    color: #000;
+}
+.yes-peragragh{
+    font-size:25px;
+    color: #000;
+}
+#devoloper-button{
+    font-size:20px;
+    border:1px solid #d4d4dd;
+    padding: 10px 10px;
+    border-radius: 15px;
+    margin-left:0px;
+    color: #fff;
+    background:#433ADB;
+    transition: .5s;
+}
+#devoloper-button:hover{
+    background: #fff;
+    color: black;
+}
+.prokash-site{
+    width:800px;
+   background-image: url(img/loading.gif);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.boll{
+    padding: 10px;
 }
